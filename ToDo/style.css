@@ -1,5 +1,16 @@
-.enter{
+body{
+    background:rgb(148, 201, 212);
+}
+.enter {
     display:flex;
-    gap:20px;
+    gap:10px;
     
+}
+
+.enter input{
+    width:700px;
+    height:40px;
+}
+.enter button{
+    width:80px;
 }
